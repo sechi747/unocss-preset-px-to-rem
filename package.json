@@ -1,6 +1,6 @@
 {
   "name": "unocss-preset-px2rem",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert all px to rem in utils",
   "keywords": [
     "unocss",
@@ -16,12 +16,12 @@
   "sideEffects": false,
   "exports": {
     ".": {
-      "types": "./dist/index.d.ts",
-      "require": "./dist/index.cjs",
-      "import": "./dist/index.mjs"
+      "require": "./dist/index.js",
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.ts"
     }
   },
-  "main": "./dist/index.cjs",
+  "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "files": [
