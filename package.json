@@ -9,9 +9,9 @@
   "author": "sechi <sechichen@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sechi747/unocss-preset-px-to-rem.git"
+    "url": "git+https://github.com/sechi747/unocss-preset-px2rem.git"
   },
-  "homepage": "https://github.com/sechi747/unocss-preset-px-to-rem#readme",
+  "homepage": "https://github.com/sechi747/unocss-preset-px2rem#readme",
   "license": "MIT",
   "sideEffects": false,
   "exports": {
