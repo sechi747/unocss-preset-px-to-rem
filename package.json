@@ -1,6 +1,6 @@
 {
-  "name": "unocss-preset-px-to-rem",
-  "version": "1.0.0",
+  "name": "unocss-preset-px2rem",
+  "version": "0.0.1",
   "description": "Convert all px to rem in utils",
   "keywords": [
     "unocss",
