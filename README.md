@@ -1,5 +1,5 @@
 ## unocss-preset-px2rem
-Convert all px to rem in utils with uncosss.
+Convert all px to rem in utils with unocss.
 
 ## installation
 `pnpm i unocss-preset-px2rem -D`
