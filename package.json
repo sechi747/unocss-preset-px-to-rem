@@ -1,6 +1,6 @@
 {
   "name": "unocss-preset-px2rem",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Convert all px to rem in utils",
   "keywords": [
     "unocss",
@@ -9,7 +9,7 @@
   "author": "sechi <sechichen@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sechi747/unocss-preset-px2rem.git"
+    "url": "https://github.com/sechi747/unocss-preset-px2rem.git"
   },
   "homepage": "https://github.com/sechi747/unocss-preset-px2rem#readme",
   "license": "MIT",
